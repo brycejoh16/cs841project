@@ -17,12 +17,13 @@ To run the code make a conda environment with the following specifications
 The `traditional_and_umap.ipynb` file shows all the visualizations for traditional algorithms such as spring and circle layouts. The `cs841.py` file is contains the functions necessary to run the topological analysis. 
 
 <img src="fig5.png" width="500">
-**
+
+-----------------------------------------
 To run one of the fitness functions from the paper use the `fitness_func_library`. If you wish to run your own fitness function, please contact the author, as this is extremely unstable as of 5/11/2022.
 
 Or 
 
 simply message me and I can zoom with you Joe to show you the outputs. 
+------------------------------------------
 
-**
 The final paper for the project is shown in `final_paper.pdf`. 
